@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-dark-1200x400.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-light-1200x400.gif">
+  <img alt="NetDLab, Networks, Dynamics, and Learning Laboratory" src="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-light-1200x400.gif" width="100%">
+</picture>
+
 ## Networks, Dynamics, and Learning Laboratory
 
 NetDLab is a research group in the Department of Electrical and Computer Engineering at
