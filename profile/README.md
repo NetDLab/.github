@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-dark-1000x200.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-light-1000x200.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-dark-1000x200.webp" type="image/webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-light-1000x200.webp" type="image/webp">
   <img alt="NetDLab, Networks, Dynamics, and Learning Laboratory" src="https://raw.githubusercontent.com/NetDLab/.github/main/profile/assets/netdlab-banner-light-1000x200.gif" width="100%">
 </picture>
 
